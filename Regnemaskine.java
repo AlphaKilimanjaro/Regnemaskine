@@ -1,3 +1,4 @@
+// *** Copyright © 2019 Alpha Kilimanjaro. All rights reserved.
 import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
